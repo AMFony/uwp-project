@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB03-P</Machine>
+    <WindowsUser>domai</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>eee45b5a-daf2-471b-828b-dbbf2c88c87d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=domai</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>3D9829D71B9943B590FB86E63214079A334B21E7194E69E1B50E136FD2B16A19</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>eee45b5a-daf2-471b-828b-dbbf2c88c87d_1.0.0.0_x86__k2wrmmjyybxee</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>eee45b5a-daf2-471b-828b-dbbf2c88c87d_k2wrmmjyybxee!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>eee45b5a-daf2-471b-828b-dbbf2c88c87d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=domai</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-22T10:27:11.076</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\bin\x86\Debug\EmployeeAttendanceApp.exe">
+      <PackagePath>entrypoint\EmployeeAttendanceApp.exe</PackagePath>
+      <Modified>2022-05-22T10:27:10.636</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.13\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2021-10-10T00:49:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.19041.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2020-12-01T22:52:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\e01.jpg">
+      <PackagePath>Assets\e01.jpg</PackagePath>
+      <Modified>2022-05-22T08:57:51.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\e02.jpg">
+      <PackagePath>Assets\e02.jpg</PackagePath>
+      <Modified>2022-05-22T08:57:51.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\e03.jpg">
+      <PackagePath>Assets\e03.jpg</PackagePath>
+      <Modified>2022-05-22T08:57:51.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\e04.jpg">
+      <PackagePath>Assets\e04.jpg</PackagePath>
+      <Modified>2022-05-22T08:57:51.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\e05.jpg">
+      <PackagePath>Assets\e05.jpg</PackagePath>
+      <Modified>2022-05-22T08:57:51.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\e06.jpg">
+      <PackagePath>Assets\e06.jpg</PackagePath>
+      <Modified>2022-05-22T08:57:51.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\e07.jpg">
+      <PackagePath>Assets\e07.jpg</PackagePath>
+      <Modified>2022-05-22T08:57:51.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\e08.jpg">
+      <PackagePath>Assets\e08.jpg</PackagePath>
+      <Modified>2022-05-22T08:57:51.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\e09.jpg">
+      <PackagePath>Assets\e09.jpg</PackagePath>
+      <Modified>2022-05-22T08:57:51.667</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\employee_office.png">
+      <PackagePath>Assets\employee_office.png</PackagePath>
+      <Modified>2022-05-22T09:30:01.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2022-05-14T15:31:56.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-14T15:31:56.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-14T15:31:56.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-14T15:31:56.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-14T15:31:56.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-14T15:31:56.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-14T15:31:56.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2022-05-22T08:57:13.321</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\bin\x86\Debug\EmployeeAttendanceApp.xr.xml">
+      <PackagePath>EmployeeAttendanceApp.xr.xml</PackagePath>
+      <Modified>2022-05-22T10:19:48.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2022-05-22T10:27:10.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\bin\x86\Debug\AttendanceListEmp.xbf">
+      <PackagePath>AttendanceListEmp.xbf</PackagePath>
+      <Modified>2022-05-22T10:27:10.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2022-05-22T10:27:10.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2020-12-01T20:52:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-05-22T10:03:39.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\R50\Module 03\Projects\7\EmployeeAttendanceApp_Solution\EmployeeAttendanceApp\bin\x86\Debug\Core\EmployeeAttendanceApp.exe">
+      <PackagePath>EmployeeAttendanceApp.exe</PackagePath>
+      <Modified>2022-05-22T10:27:11.074</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.30527.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.30527.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.30527.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.30527.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.30527.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.30527.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.30316.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.30316.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.30316.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.30316.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.30316.1</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.30316.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.13\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
